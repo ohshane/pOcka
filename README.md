@@ -1,6 +1,6 @@
-# ![pOck](https://user-images.githubusercontent.com/33196727/110328940-51f21480-805f-11eb-83ab-2c4dbc034e1f.png)
+# pOcka
 
-# Project Description
+## Project Description
 N/A
 
 ---
