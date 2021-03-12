@@ -1,7 +1,7 @@
 # pOcka
 
 ## Project Description
-N/A
+n/a
 
 ---
 
