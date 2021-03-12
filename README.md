@@ -2,7 +2,11 @@
 
 ## Project Description
 starting HOL on master
-committed on masterwhile you where working on feature haha.
+committed on master
+while you where working on feature haha.
+first commit from feature
+second commit from feature
+third commit from feature
 
 ---
 
