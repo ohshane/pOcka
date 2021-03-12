@@ -1,7 +1,7 @@
 # pOcka
 
 ## Project Description
-from local
+master
 
 ---
 
