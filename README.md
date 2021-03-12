@@ -1,7 +1,7 @@
 # pOcka
 
 ## Project Description
-not yet
+from local
 
 ---
 
